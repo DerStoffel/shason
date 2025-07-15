@@ -26,7 +26,7 @@ To use this tool, you need Python 3.8+ installed. It's highly recommended to use
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/DerStoffel/shason.git](https://github.com/DerStoffel/shason.git)
+    git clone https://github.com/DerStoffel/shason.git
     cd shason
     ```
 
