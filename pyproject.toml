@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "shason"
+version = "0.1.0"
+authors = [
+  { name="Your Name", email="you@example.com" },
+]
+description = "An interactive tool to extract Shapefile layers to GeoJSON."
+readme = "README.md"
+requires-python = ">=3.8"
+license = { file="LICENSE" }
+dependencies = [
+    "geopandas",
+    "fiona",
+    "questionary",
+    "rich",
+]
+
+[project.scripts]
+shason = "shason:main"
