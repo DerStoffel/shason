@@ -18,7 +18,7 @@ A user-friendly, interactive command-line tool to inspect a zipped Shapefile, se
 
 Here is an example of the interactive session:
 
-![Screenshot of the interactive tool in action, showing colored text and prompts for layer selection and filename input.](https://i.imgur.com/GjT8l0R.png)
+![Screenshot of the interactive tool in action, showing colored text and prompts for layer selection and filename input.](shason.gif)
 
 ## Installation
 
@@ -26,8 +26,8 @@ To use this tool, you need Python 3.8+ installed. It's highly recommended to use
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone [https://github.com/DerStoffel/shason.git](https://github.com/DerStoffel/shason.git)
+    cd shason
     ```
 
 2.  **Create and activate a virtual environment (recommended):**
