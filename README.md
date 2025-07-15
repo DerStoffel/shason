@@ -67,9 +67,7 @@ You can download the pre-compiled, standalone executables for your operating sys
 
 Or, use the direct links below:
 
-  - [**Download for Windows (.exe)**](https://github.com/DerStoffel/shason/releases/latest/download/shason.exe)
   - [**Download for macOS (Intel/ARM)**](https://github.com/DerStoffel/shason/releases/latest/download/shason_macos)
-  - [**Download for Linux**](https://github.com/DerStoffel/shason/releases/latest/download/shason_linux)
 
 ## Building From Source
 
